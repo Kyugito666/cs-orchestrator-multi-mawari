@@ -10,7 +10,7 @@ import time
 MAIN_TOKEN = "ghp_naiijd"
 
 # Username pemilik repositori.
-OWNER_USERNAME = "Kyugito666"
+OWNER_USERNAME = "userna"
 
 # Nama repositori target.
 REPO_NAME = "mawari-multi-wallet"
@@ -158,3 +158,4 @@ def efficient_inviter():
 if __name__ == "__main__":
 
     efficient_inviter()
+
