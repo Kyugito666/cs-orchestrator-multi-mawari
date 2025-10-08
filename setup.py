@@ -7,7 +7,7 @@ import time
 # KONFIGURASI - SILAKAN UBAH BAGIAN INI
 # ==========================================================
 # Token akun utama Anda yang memiliki hak akses admin/owner ke repositori.
-MAIN_TOKEN = "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"
+MAIN_TOKEN = "ghp_naiijd"
 
 # Username pemilik repositori.
 OWNER_USERNAME = "Kyugito666"
@@ -156,4 +156,5 @@ def efficient_inviter():
 
 # --- Jalankan fungsi utama saat skrip dieksekusi ---
 if __name__ == "__main__":
+
     efficient_inviter()
